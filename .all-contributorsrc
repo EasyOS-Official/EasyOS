@@ -1,0 +1,41 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "thecoder876",
+      "name": "thecoder876",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76265544?v=4",
+      "profile": "https://thecoder876.github.io",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "design",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "projectManagement",
+        "question",
+        "review",
+        "security",
+        "tool",
+        "test",
+        "tutorial",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "CatOS",
+  "projectOwner": "CatOS-Scratch",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
